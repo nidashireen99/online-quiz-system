@@ -16,7 +16,15 @@ let defaultQuestions = [
         option3: "5",
         option4: "6",
         answer: "4"
-    }
+    },
+    {
+    question: "HTML stands for?",
+    option1: "Hyper Text Markup Language",
+    option2: "Home Tool Markup Language",
+    option3: "Hyperlinks Text",
+    option4: "HighText",
+    answer: "Hyper Text Markup Language"
+},
 
 ];
 
